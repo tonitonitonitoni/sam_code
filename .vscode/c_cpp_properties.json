@@ -1,0 +1,49 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/toni/ros2_ws/install/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/toni/ros2_ws/src/gazebo_ros2_control/gazebo_ros2_control/include/**",
+        "/home/toni/ros2_ws/src/realtime_tools/include/**",
+        "/home/toni/ros2_ws/src/ros2_control/controller_interface/include/**",
+        "/home/toni/ros2_ws/src/ros2_control/controller_manager/include/**",
+        "/home/toni/ros2_ws/src/ros2_control/hardware_interface/include/**",
+        "/home/toni/ros2_ws/src/ros2_control/joint_limits/include/**",
+        "/home/toni/ros2_ws/src/ros2_control/ros2_control_test_assets/include/**",
+        "/home/toni/ros2_ws/src/ros2_control/transmission_interface/include/**",
+        "/home/toni/ros2_ws/src/ros2_controllers/ackermann_steering_controller/include/**",
+        "/home/toni/ros2_ws/src/ros2_controllers/admittance_controller/include/**",
+        "/home/toni/ros2_ws/src/ros2_controllers/bicycle_steering_controller/include/**",
+        "/home/toni/ros2_ws/src/ros2_controllers/diff_drive_controller/include/**",
+        "/home/toni/ros2_ws/src/ros2_controllers/effort_controllers/include/**",
+        "/home/toni/ros2_ws/src/ros2_controllers/force_torque_sensor_broadcaster/include/**",
+        "/home/toni/ros2_ws/src/ros2_controllers/forward_command_controller/include/**",
+        "/home/toni/ros2_ws/src/ros2_controllers/gripper_controllers/include/**",
+        "/home/toni/ros2_ws/src/ros2_controllers/imu_sensor_broadcaster/include/**",
+        "/home/toni/ros2_ws/src/ros2_controllers/joint_state_broadcaster/include/**",
+        "/home/toni/ros2_ws/src/ros2_controllers/joint_trajectory_controller/include/**",
+        "/home/toni/ros2_ws/src/ros2_controllers/pid_controller/include/**",
+        "/home/toni/ros2_ws/src/ros2_controllers/position_controllers/include/**",
+        "/home/toni/ros2_ws/src/ros2_controllers/range_sensor_broadcaster/include/**",
+        "/home/toni/ros2_ws/src/ros2_controllers/steering_controllers_library/include/**",
+        "/home/toni/ros2_ws/src/ros2_controllers/tricycle_controller/include/**",
+        "/home/toni/ros2_ws/src/ros2_controllers/tricycle_steering_controller/include/**",
+        "/home/toni/ros2_ws/src/ros2_controllers/velocity_controllers/include/**",
+        "/home/toni/ros2_ws/src/sam_bot_description/include/**",
+        "include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
